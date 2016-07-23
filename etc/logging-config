@@ -1,0 +1,8 @@
+#available: verbose, info, warrning, error
+verbose:true
+info:true
+debug:true
+warning:true
+error:true
+#eclipse, terminal
+log-context:eclipse
