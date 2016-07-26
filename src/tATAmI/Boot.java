@@ -1,7 +1,7 @@
-package tATAmI.simulation;
+package tATAmI;
 
-import tATAmI.Const;
 import tATAmI.fwk_logging.Log;
+import tATAmI.utils.Const;
 
 public class Boot {
     
@@ -19,7 +19,6 @@ public class Boot {
         else{
             Log.v("Log settings could not be loaded");
         }
-        
     }
     
    

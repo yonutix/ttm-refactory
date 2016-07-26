@@ -6,3 +6,4 @@ warning:true
 error:true
 #eclipse, terminal
 log-context:eclipse
+log-tags:(BOOT; tATAmI.simulation.Boot)

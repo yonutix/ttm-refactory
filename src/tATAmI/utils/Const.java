@@ -1,4 +1,4 @@
-package tATAmI;
+package tATAmI.utils;
 
 import java.io.IOException;
 import java.util.HashMap;
